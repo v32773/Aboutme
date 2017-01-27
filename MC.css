@@ -1,0 +1,35 @@
+p1{
+    color: white;
+    
+}
+h1{
+    color:white;
+}
+body{
+    background-image: url(https://static.pexels.com/photos/89858/pexels-photo-89858.jpeg);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+a{
+    color: white;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid blue;
+	text-align: center;
+}
+th {
+    background-color: grey;
+    color: white;
+}
+table {
+    width: 40%;
+    color: white;
+}
+
+th {
+    height: 10px;
+}
